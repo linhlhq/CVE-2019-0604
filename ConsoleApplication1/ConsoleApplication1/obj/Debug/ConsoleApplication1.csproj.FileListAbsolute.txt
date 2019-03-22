@@ -1,0 +1,9 @@
+c:\users\k1n9\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+c:\users\k1n9\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+c:\users\k1n9\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+c:\users\k1n9\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\Microsoft.SharePoint.dll
+c:\users\k1n9\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\Microsoft.SharePoint.xml
+c:\users\k1n9\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+c:\users\k1n9\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\k1n9\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\PresentationFramework.dll
+C:\Users\k1n9\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
